@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">A passionate for code from Argentina</h3>
+<h1 align="center">Hey there, feel free to check out what I've been up to!</h1>
+
+<h3 align="center">Hi 👋, I'm Agustin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusdigiam&label=Profile%20views&color=0e75b6&style=flat" alt="agusdigiam" /> </p>
 
