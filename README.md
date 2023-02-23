@@ -1,9 +1,11 @@
 <h1 align="center">Hey there, feel free to check out what I've been up to!</h1>
 
-<h3 align="center">Hi 👋, I'm Agustin</h3>
+<h2 align="center">Hi 👋, I'm Agustin</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agusdigiam&label=Profile%20views&color=0e75b6&style=flat" alt="agusdigiam" /> </p>
 
+<h4 aling="center">I'm always working on something, and often too excited about it to stop and update my portfolio</h4>
+<h4 aling="center">Feel free to reach out and see what I'm up to now</h4>
 
 - 🔭 I’m currently working on [Batata Bit Page](https://github.com/Agusdigiam/BatataBit_Mobile)
 
