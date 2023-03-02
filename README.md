@@ -20,7 +20,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/agustindigiambatista/?locale=en_US](https://www.linkedin.com/in/agustindigiambatista/?locale=en_US)
 
 - ⚡ Fun fact **I love cycling**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
