@@ -7,7 +7,7 @@
 <h4 aling="center">I'm always working on something, and often too excited about it to stop and update my portfolio</h4>
 <h4 aling="center">Feel free to reach out and see what I'm up to now</h4>
 
-- 🔭 I’m currently working on [Batata Bit Page](https://github.com/Agusdigiam/BatataBit_Mobile)
+- 🔭 I’m currently working on [Code Signal Project ](https://code-signal-web.vercel.app/)
 
 - 🌱 I’m currently learning **Node Js and React Js**
 
