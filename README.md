@@ -1,21 +1,23 @@
-#Hi there 👋
-My Name is Agustin and I am a Tech Entrepreneur, Open Source Enthusiast.
-You can find me on Linkedin. I also use few other social networks but I don't think that will be interesting for you.
-I have over 2 years of large scale software design & development experience (Backend and Front-End). Experienced in both writing software from scratch and maintaining large existing projects. In this time I have developed applications on different verticals including eCommerce, 
-Currently working at Kunaisoft Agency as Junior Developer. 
+# Hi I'm Agustin 👋
 
-Area of expertise :
-•	REST, API design and development with Python and Java
-•	Desing Mobile and Desktop apps in Figma and Build in React
-•	Design and developing Web applications
+My name is Agustín and I'm from Argentina! I love learning new technologies, working remotely and being able to help people develop.
+I have more than 2 years of experience in large-scale software design and development (Backend and Front-End). If you ask me, I'm a fan of Backend ;)
+I have experience in both writing software from scratch and maintaining large existing projects. In this time I have developed different applications including ecommerce, mobile and desktop web design.
 
-Skills & Technologies:
-•	Java, Spring Boot , Maven , Gradle
-•	MySQL
-•	Python, MongoDB
-•	Apache ,  XMPP
-•	Javascript / NodeJs , HTML and CSS /Bootstrap and Tailwind.
-•	Linux and Windows.
-•	React, Vite js and Angular.
-•	UX/UI Desing: Figma , Photoshop , Illustrator.
-Interested in developing highly scalable distributed systems.
+I love challenges and I'm constantly learning!
+
+
+## Area of expertise :
+-	REST, API design and development with Python and Java.
+-	Desing Mobile and Desktop apps in Figma and Build in React.
+-	Design and developing Web Applications.
+
+## Skills & Technologies:
+-	Java, Spring Boot , Maven , Gradle
+-	MySQL
+-	Python, MongoDB
+-	Apache ,  XMPP
+-	Javascript / NodeJs , HTML and CSS /Bootstrap and Tailwind.
+-	Linux and Windows.
+-	React, Vite js and Angular.
+-	UX/UI Desing: Figma , Photoshop , Illustrator.
